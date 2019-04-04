@@ -18,7 +18,7 @@ Além disso, o sistema atual, PontoWeb, não oferece opções necessárias para 
 - Gerenciamento de atividades: [Trello](https://trello.com/b/uB9PHvzY/4-periodo)
 - Repositorio de Arquivos: [Github](https://github.com/lcs9/PGP-IF979-2019.1)
 - Comunicação interna: Whatssap
-- Cronograma de Atividades: [Google Sheets](http://bit.do/eMZEi)
+- Cronograma de Atividades: [Google Sheets](https://docs.google.com/spreadsheets/d/1lON6MOnvFsxoLqd1eWbKVmMGvxluZ5R7WHCF66seAsk/edit#gid=64151894)
 - Compartilhamento de arquivos:Google Drive
 
 # Plano de Comunicação
