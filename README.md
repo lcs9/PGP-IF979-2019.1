@@ -5,6 +5,7 @@
 - [Canvas](https://github.com/lcs9/PGP-IF979-2019.1/tree/master/Canvas)
 - [Kickoff do projeto](https://github.com/lcs9/PGP-IF979-2019.1/blob/master/Apresentação.pptx?raw=true)
 - [Termo de abertura](https://docs.google.com/document/d/1cyoRYNQPacX9Ui2kVp9Vfoy-UlEH0DMBCsCgWfe_DTE/edit?ts=5c9d1eeb)
+- [1 Status Report](https://github.com/lcs9/PGP-IF979-2019.1/tree/master/1%20status%20report)
 
 # Descrição
 O sistema PontoWeb da Universidade Federal de Pernambuco é responsável pelo controle da frequência dos Técnicos Administrativos. Com migração do Sig@ para SIGAA o PontoWeb irá passar apenas para a manutenção e parte técnica do sistema. Então será preciso fazer uma transposição  e transferência contínua dos dados de frequência dos funcionários do sistema PontoWeb para o SIGAA, onde será desenvolvido e implantado um software responsável e com a capacidade de realizar essa tarefa.
@@ -31,5 +32,7 @@ Além disso, o sistema atual, PontoWeb, não oferece opções necessárias para 
 - Raphael Farias (rff3@cin.ufpe.br)
 - Rivaldo de Castro Rodrigues Araujo(rcra@cin.ufpe.br)
 - Josenildo Lopes(jls2@cin.ufpe.br)
+- Ivan Ferreira(ifsl2@cin.ufpe.br)
+- Adriano Golçalves(ags6@cin.ufpe.br)
 
 
