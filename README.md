@@ -1,10 +1,10 @@
 # **Planejamento e Gerenciamento de Projetos**
 ---
-# Mind maps
-
-# Canvas
-
-#Kickoff do projeto
+# Atividades
+- [Mind maps](https://github.com/lcs9/PGP-IF979-2019.1/tree/master/Mind%20maps)
+- [Canvas](https://github.com/lcs9/PGP-IF979-2019.1/tree/master/Canvas)
+- [Kickoff do projeto](https://github.com/lcs9/PGP-IF979-2019.1/blob/master/Apresentação.pptx?raw=true)
+- [Termo de abertura](https://docs.google.com/document/d/1cyoRYNQPacX9Ui2kVp9Vfoy-UlEH0DMBCsCgWfe_DTE/edit?ts=5c9d1eeb)
 
 # Descrição
 O sistema PontoWeb da Universidade Federal de Pernambuco é responsável pelo controle da frequência dos Técnicos Administrativos. Com migração do Sig@ para SIGAA o PontoWeb irá passar apenas para a manutenção e parte técnica do sistema. Então será preciso fazer uma transposição  e transferência contínua dos dados de frequência dos funcionários do sistema PontoWeb para o SIGAA, onde será desenvolvido e implantado um software responsável e com a capacidade de realizar essa tarefa.
@@ -18,11 +18,11 @@ Além disso, o sistema atual, PontoWeb, não oferece opções necessárias para 
 - Gerenciamento de atividades: [Trello](https://trello.com/b/uB9PHvzY/4-periodo)
 - Repositorio de Arquivos: [Github](https://github.com/lcs9/PGP-IF979-2019.1)
 - Comunicação interna: Whatssap
-- Cronograma de Atividades: [Google Sheets](http://bit.do/eMZEi)
+- Cronograma de Atividades: [Google Sheets](https://docs.google.com/spreadsheets/d/1lON6MOnvFsxoLqd1eWbKVmMGvxluZ5R7WHCF66seAsk/edit#gid=64151894)
 - Compartilhamento de arquivos:Google Drive
 
 # Plano de Comunicação
-    [Plano de comunição](https://docs.google.com/document/d/1LJHUskjEg96Q7BG3bhdW8X_XndFxOW7vJVWCYB-mkGk/edit?usp=sharing)
+ [Plano de comunição](https://docs.google.com/document/d/1LJHUskjEg96Q7BG3bhdW8X_XndFxOW7vJVWCYB-mkGk/edit?usp=sharing)
 # Metodologia
     Scrum
 
