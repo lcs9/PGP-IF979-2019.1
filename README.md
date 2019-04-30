@@ -29,8 +29,7 @@ Além disso, o sistema atual, PontoWeb, não oferece opções necessárias para 
 # Grupo
 - Livio Cavalcanti(lcs9@cin.ufpe.br)
 - Raphael Farias (rff3@cin.ufpe.br)
-- Adriano Gonçalves(ags6@cin.ufpe.br)
+- Rivaldo de Castro Rodrigues Araujo(rcra@cin.ufpe.br)
 - Josenildo Lopes(jls2@cin.ufpe.br)
-- Ivan Ferreia(ifsl2@cin.ufpe.br)
 
 
