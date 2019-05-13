@@ -7,7 +7,7 @@
 - [Termo de abertura](https://docs.google.com/document/d/1cyoRYNQPacX9Ui2kVp9Vfoy-UlEH0DMBCsCgWfe_DTE/edit?ts=5c9d1eeb)
 - [1 Status Report](https://github.com/lcs9/PGP-IF979-2019.1/tree/master/1%20status%20report)
 - [Plano de Escopo do projeto](https://github.com/lcs9/PGP-IF979-2019.1/blob/master/1%20status%20report/1%C2%BA%20Status%20de%20Report%20PGP.pptx)
--[Plano de Gerenciamento Recursos Humanos](https://github.com/lcs9/PGP-IF979-2019.1/blob/master/1%20status%20report/prh%20-%20P%C3%A1gina1.pdf)
+- [Plano de Gerenciamento Recursos Humanos](https://github.com/lcs9/PGP-IF979-2019.1/blob/master/1%20status%20report/prh%20-%20P%C3%A1gina1.pdf)
 - [Plano de Comunicação](https://github.com/lcs9/PGP-IF979-2019.1/blob/master/1%20status%20report/Plano_de_Comunica%C3%A7%C3%A3o.pdf)
 
 # Descrição
