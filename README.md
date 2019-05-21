@@ -9,7 +9,7 @@
 - [Plano de Escopo do projeto](https://github.com/lcs9/PGP-IF979-2019.1/blob/master/1%20status%20report/1%C2%BA%20Status%20de%20Report%20PGP.pptx)
 - [Plano de Gerenciamento Recursos Humanos](https://github.com/lcs9/PGP-IF979-2019.1/blob/master/1%20status%20report/prh%20-%20P%C3%A1gina1.pdf)
 - [Plano de Comunicação](https://github.com/lcs9/PGP-IF979-2019.1/blob/master/1%20status%20report/Plano_de_Comunica%C3%A7%C3%A3o.pdf)
-
+- [Cronograma](https://github.com/lcs9/PGP-IF979-2019.1/blob/master/Cronograma%20(2).pdf)
 # Descrição
 O sistema PontoWeb da Universidade Federal de Pernambuco é responsável pelo controle da frequência dos Técnicos Administrativos. Com migração do Sig@ para SIGAA o PontoWeb irá passar apenas para a manutenção e parte técnica do sistema. Então será preciso fazer uma transposição  e transferência contínua dos dados de frequência dos funcionários do sistema PontoWeb para o SIGAA, onde será desenvolvido e implantado um software responsável e com a capacidade de realizar essa tarefa.
 
